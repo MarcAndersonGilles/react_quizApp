@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_quizApp/static/css/main.15ed4c06.css",
+    "main.js": "/react_quizApp/static/js/main.dbc7b05f.js",
+    "static/js/787.44458aef.chunk.js": "/react_quizApp/static/js/787.44458aef.chunk.js",
+    "static/media/tanjiro.png": "/react_quizApp/static/media/tanjiro.f261bfd23d2f9088426e.png",
+    "static/media/onepiece.jpg": "/react_quizApp/static/media/onepiece.73bb710399b95183614a.jpg",
+    "static/media/naruto.png": "/react_quizApp/static/media/naruto.8e9afa94ba217696b793.png",
+    "static/media/natsu.png": "/react_quizApp/static/media/natsu.2b73076deb008aeb05cd.png",
+    "static/media/big3.jpg": "/react_quizApp/static/media/big3.96c5960d1d5622179303.jpg",
+    "static/media/ichigo.png": "/react_quizApp/static/media/ichigo.ef87f954fbf2ed96e960.png",
+    "static/media/goku.jpg": "/react_quizApp/static/media/goku.9f2bf4610d8b44b8fab2.jpg",
+    "index.html": "/react_quizApp/index.html",
+    "main.15ed4c06.css.map": "/react_quizApp/static/css/main.15ed4c06.css.map",
+    "main.dbc7b05f.js.map": "/react_quizApp/static/js/main.dbc7b05f.js.map",
+    "787.44458aef.chunk.js.map": "/react_quizApp/static/js/787.44458aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ed4c06.css",
+    "static/js/main.dbc7b05f.js"
+  ]
+}
